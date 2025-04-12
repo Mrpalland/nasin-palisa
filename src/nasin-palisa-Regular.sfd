@@ -4,7 +4,7 @@ FullName: nasin-palisa Regular
 FamilyName: nasin-palisa
 Weight: Book
 Copyright: (C) Copyright aks Ejan, 2025
-Version: 1.2
+Version: 1.0.2
 ItalicAngle: 0
 UnderlinePosition: -100
 UnderlineWidth: 50
@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1744345721
-ModificationTime: 1744491120
+ModificationTime: 1744497129
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -100,7 +100,7 @@ ShortTable: maxp 16
   0
   0
 EndShort
-LangName: 1033 "" "" "Regular" "nasin-palisa fd8623af-a102-4bbe-b13c-d839305db053" "" "Version 1.2" "" "" "" "aks Ejan" "" "" "" "SIL Open Font License, Version 1.1" "https://openfontlicense.org"
+LangName: 1033 "" "" "Regular" "nasin-palisa fd8623af-a102-4bbe-b13c-d839305db053" "" "Version 1.0.2" "" "" "" "aks Ejan" "" "" "" "SIL Open Font License, Version 1.1" "https://openfontlicense.org"
 GaspTable: 1 65535 2 0
 Encoding: Custom
 UnicodeInterp: none
@@ -134,6 +134,7 @@ Grid
  2000 301.442321777 l 1024
   Named: "midline"
 EndSplineSet
+TeXData: 1 0 0 0 0 0 552770 1048576 0 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 BeginChars: 547 290
 
 StartChar: .notdef
