@@ -20,9 +20,9 @@ The sitelen pona writing system is a public domain writing system for toki pona 
 
 This font uses [sitelen-sitelen](https://jonathangabel.com/toki-pona/) as the source of som glyphs. Specifically `ale mu mun pilin unpa`. 
 
-The original sitelen pona glyphs for these words either did not match the style or were difficult to write with the angled brush.
+> The original sitelen pona glyphs for these words either did not match the style or were difficult to write with an angled brush.
 
 ---
 
-Initial base font was generated with hand-drawn glyphs using [sp-font-maker](https://github.com/KelseyHigham/sp-font-maker) by waso Keli.
+Base font was generated with hand-drawn glyphs using [sp-font-maker](https://github.com/KelseyHigham/sp-font-maker) by waso Keli.
 
