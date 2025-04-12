@@ -1,12 +1,19 @@
 # nasin-palisa
 
-A font for ambidirectional writing in sitelen pona.
+A font for stylized, ambidirectional writing in sitelen pona art.
 ![all nasin-palisa glyphs](examples/nasin-palisa-1.2_ExampleBoard.png)
 
 ## Usage
 This script was designed to be used primarly in visual and written artworks such as the example below.
 
 ![example artwork using the script](examples/nasin-palisa_ExampleArt.png)
+
+This font uses both latin ligatures of toki pona words and the sitelen pona private use area in unicode.
+
+Latin text can be written by using capital letters. `akesi[NAME]` will produce a cartouche with NAME written in latin lettering.
+
+> [!note]
+> Kerning for cartouches only applies if there is no space between the bracket and preceding glyph.
 
 ## Glyph Sources and Differences
 The sitelen pona writing system is a public domain writing system for toki pona ([ISO tok](https://iso639-3.sil.org/code/tok)) made by [Sonja Lang](https://tokipona.org/).
