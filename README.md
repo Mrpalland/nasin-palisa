@@ -8,7 +8,7 @@ This script was designed to be used primarly in visual and written artworks such
 
 ![example artwork using the script](examples/nasin-palisa_ExampleArt.png)
 
-> I am unaware of a way to make a font be inherently boustrophedonic. The example was typed and mirrored manually.
+> I am unaware of a way to make a font be inherently boustrophedonic. This example was typed and mirrored manually.
 
 This font uses both latin ligatures of toki pona words and the sitelen pona private use area in unicode.
 
