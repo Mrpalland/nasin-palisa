@@ -22,7 +22,8 @@ This font uses [sitelen-sitelen](https://jonathangabel.com/toki-pona/) as the so
 
 > The original sitelen pona glyphs for these words either did not match the style or were difficult to write with an angled brush.
 
----
+## Creation
 
 Base font was generated with hand-drawn glyphs using [sp-font-maker](https://github.com/KelseyHigham/sp-font-maker) by waso Keli.
 
+Additional glyphs and features were added and made using [FontForge](https://fontforge.org).
