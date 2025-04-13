@@ -20,7 +20,7 @@ Latin text can be written by using capital letters. `akesi[NAME]` will produce a
 ## Glyph Sources and Differences
 The sitelen pona writing system is a public domain writing system for toki pona ([ISO tok](https://iso639-3.sil.org/code/tok)) made by [Sonja Lang](https://tokipona.org/).
 
-This font uses [sitelen-sitelen](https://jonathangabel.com/toki-pona/) as the source of som glyphs. Specifically `ale mu mun pilin unpa`. 
+This font uses [sitelen-sitelen](https://jonathangabel.com/toki-pona/) as the source of some glyphs. Specifically `ale mu mun pilin unpa`. 
 
 > The original sitelen pona glyphs for these words either did not match the style or were difficult to write with an angled brush.
 
