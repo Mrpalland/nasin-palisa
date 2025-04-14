@@ -1,7 +1,7 @@
 # nasin-palisa
 
 A font for stylized, ambidirectional writing in sitelen pona art.
-![all nasin-palisa glyphs](examples/nasin-palisa-1.2_ExampleBoard.png)
+![all nasin-palisa glyphs](examples/nasin-palisa-1.1.0_ExampleBoard.png)
 
 ## Usage
 This script was designed to be used primarly in visual and written artworks such as the example below.
